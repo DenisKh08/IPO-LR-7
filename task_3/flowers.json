@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3,
+    "name": "Подснежник",
+    "latin_name": "Galanthus",
+    "is_red_book_flower": true,
+    "price": 200.0
+  },
+  {
+    "id": 4,
+    "name": "Орхидея",
+    "latin_name": "Orchidaceae",
+    "is_red_book_flower": false,
+    "price": 300.0
+  },
+  {
+    "id": 5,
+    "name": "Кувшинка",
+    "latin_name": "Nymphaea",
+    "is_red_book_flower": true,
+    "price": 250.0
+  },
+  {
+    "id": 6,
+    "name": "кустовая роза",
+    "latin_name": "kystova rosa",
+    "is_red_book_flower": false,
+    "price": 120.0
+  },
+  {
+    "id": 7,
+    "name": "тюльпан",
+    "latin_name": "tulip",
+    "is_red_book_flower": false,
+    "price": 90.0
+  }
+]
